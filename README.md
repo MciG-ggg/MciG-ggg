@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+uses: Platane/snk/svg-only@v3
 <!--
 **MciG-ggg/MciG-ggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
