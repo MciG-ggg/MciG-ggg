@@ -3,13 +3,13 @@
 <table rules="none" align="center">
 		<td>
 			<center>
-				<img src="https://github-readme-stats.vercel.app/api?username=MciG-ggg&show_icons=true&theme=default&include_all_commits=true" width="100%" />
+				<img src="https://github-readme-stats.vercel.app/api?username=MciG-ggg&show_icons=true&theme=neon&include_all_commits=true" width="100%" />
 				</img>
 			</center>
 		</td>
 		<td>
 			<center>
-				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MciG-ggg&theme=default&layout=compact" width="100%" />
+				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MciG-ggg&theme=neon&layout=compact" width="100%" />
 				</img>
 			</center>
 		</td>
