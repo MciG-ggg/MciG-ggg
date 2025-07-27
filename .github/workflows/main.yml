@@ -16,7 +16,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          persist-credentials: false
+          persist-credentials: true  # 允许后续步骤使用同一 Token 推送
+          fetch-depth: 0            # 获取完整历史记录（可选）
 
       - name: Generate GitHub Contribution Snake Game
         uses: Platane/snk/svg-only@v3
