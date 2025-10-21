@@ -37,9 +37,7 @@
 ### Backend & Frameworks
   <p>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-    <img src="https://img.shields.io/badge/RocksDB-326CE5?style=for-the-badge&logo=rocksdb&logoColor=white" alt="RocksDB">
   </p>
 
 ### Tools & Technologies
