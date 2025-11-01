@@ -99,14 +99,10 @@
   </p>
 
 </div>
+
 ---
 
 <div align="center">
   <p>欢乐多时苦亦多，喜悦多时愁亦深</p>
 </div>
 
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MciG-ggg/MciG-ggg/main/footer-wave.svg" alt="Footer Wave">
-</div>
