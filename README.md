@@ -15,10 +15,6 @@
 ## 🚀 About Me
 
 - 🎓 **Computer Science Student** at Central South University (China Changsha)
-- 💻 **Backend Developer** passionate about Go and Rust
-- 🌱 **Open Source Contributor** with 24 public repositories
-- 🤝 **Collaboration** interested in distributed systems and cloud-native technologies
-- 🔥 **Currently working on** high-performance KV storage systems
 
 ---
 
@@ -134,21 +130,6 @@
   </p>
 
 </div>
-
----
-
-## 📊 Quick Stats
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MciG-ggg&repo=kiwi&theme=react&hide_border=true&bg_color=0D1117&title_color=00ff88&text_color=C9D1D9" alt="Kiwi Repo">
-      </td>
-    </tr>
-  </table>
-</div>
-
 ---
 
 <div align="center">
