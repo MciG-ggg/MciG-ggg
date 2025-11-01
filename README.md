@@ -72,40 +72,9 @@
 
 ## 📈 GitHub Activity Metrics
 
-### 🔄 Pull Requests & Issues
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MciG-ggg&theme=react&hide_border=true&background=0D1117&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakNum=C9D1D9&currStreakLabel=C9D1D9" alt="GitHub Streak">
-</div>
-
 ### 📊 Commit Activity
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=MciG-ggg&limit=5&theme=react&show_all=true&bg_color=0D1117&border_color=30363d&title_color=00ff88&text_color=C9D1D9" alt="Commit Activity">
-</div>
-
----
-
-## 🌟 Featured Projects
-
-### 🚀 **Kiwi** - High-Performance KV Storage
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <p><strong>🔧 Technologies:</strong> Go, RocksDB, Raft Protocol</p>
-        <p><strong>📝 Description:</strong> A high-performance, large-capacity, multi-tenant, data-persistent, strong data consistency KV storage system</p>
-        <p>
-          <a href="https://github.com/MciG-ggg/kiwi">
-            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-          </a>
-        </p>
-      </td>
-      <td width="50%" align="center">
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-        <img src="https://img.shields.io/badge/RocksDB-326CE5?style=for-the-badge&logo=rocksdb&logoColor=white" alt="RocksDB">
-        <img src="https://img.shields.io/badge/Raft-000000?style=for-the-badge&logo=raft&logoColor=white" alt="Raft">
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
