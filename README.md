@@ -44,7 +44,6 @@
   <p>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-    <img src="https://img.shields.io/badge/Apache%20Dubbo-EF4338?style=for-the-badge&logo=apache&logoColor=white" alt="Apache Dubbo">
   </p>
 
 </div>
@@ -113,28 +112,6 @@
   </table>
 </div>
 
-### 🐘 **Apache Dubbo Go** - Distributed Service Framework
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <p><strong>🔧 Technologies:</strong> Go, Apache Dubbo, Microservices</p>
-        <p><strong>📝 Description:</strong> Go Implementation For Apache Dubbo - high-performance RPC framework</p>
-        <p>
-          <a href="https://github.com/MciG-ggg/dubbo-go">
-            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-          </a>
-        </p>
-      </td>
-      <td width="50%" align="center">
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-        <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache">
-        <img src="https://img.shields.io/badge/RPC-FF6B6B?style=for-the-badge&logo=rpc&logoColor=white" alt="RPC">
-      </td>
-    </tr>
-  </table>
-</div>
-
 ---
 
 ## 🤝 Connect With Me
@@ -146,7 +123,7 @@
     <a href="https://github.com/MciG-ggg">
       <img src="https://img.shields.io/badge/GitHub-MciG--ggg-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
-    <a href="mailto:your-email@example.com">
+    <a href="mailto:2094938213@qq.com">
       <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
   </p>
@@ -168,9 +145,6 @@
       <td>
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=MciG-ggg&repo=kiwi&theme=react&hide_border=true&bg_color=0D1117&title_color=00ff88&text_color=C9D1D9" alt="Kiwi Repo">
       </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MciG-ggg&repo=dubbo-go&theme=react&hide_border=true&bg_color=0D1117&title_color=00ff88&text_color=C9D1D9" alt="Dubbo Go Repo">
-      </td>
     </tr>
   </table>
 </div>
@@ -178,8 +152,7 @@
 ---
 
 <div align="center">
-  <p>⚡ Fun fact: I love building distributed systems and exploring new programming languages!</p>
-  <p>🚀 Always learning, always growing!</p>
+  <p>欢乐多时苦亦多，喜悦多时愁亦深</p>
 </div>
 
 ---
