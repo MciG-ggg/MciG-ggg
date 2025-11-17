@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **Computer Science Student** at Central South University (China Changsha)
+- 🎓 **Artificial Intelligence Student** at Central South University (China Changsha)
 
 ---
 
