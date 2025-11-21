@@ -79,29 +79,6 @@
 
 ---
 
-## 🤝 Connect With Me
-
-<div align="center">
-
-### 👥 Social Links
-  <p>
-    <a href="https://github.com/MciG-ggg">
-      <img src="https://img.shields.io/badge/GitHub-MciG--ggg-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-    <a href="mailto:2094938213@qq.com">
-      <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-  </p>
-
-### 🌐 Profile Visitors
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=MciG-ggg&style=for-the-badge&color=00ff88" alt="Profile Views">
-  </p>
-
-</div>
-
----
-
 <div align="center">
   <p>欢乐多时苦亦多，喜悦多时愁亦深</p>
 </div>
