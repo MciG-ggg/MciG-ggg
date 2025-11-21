@@ -70,15 +70,6 @@
 
 ---
 
-## 📈 GitHub Activity Metrics
-
-### 📊 Commit Activity
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=MciG-ggg&limit=5&theme=react&show_all=true&bg_color=0D1117&border_color=30363d&title_color=00ff88&text_color=C9D1D9" alt="Commit Activity">
-</div>
-
----
-
 <div align="center">
   <p>欢乐多时苦亦多，喜悦多时愁亦深</p>
 </div>
