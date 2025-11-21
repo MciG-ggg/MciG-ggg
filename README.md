@@ -63,11 +63,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MciG-ggg&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&line=00ff88&point=00ff88" alt="Activity Graph">
 </div>
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MciG-ggg&theme=onestar&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
-</div>
-
 ---
 
 <div align="center">
