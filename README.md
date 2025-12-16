@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MciG-ggg/MciG-ggg/main/banner.png" alt="Banner" style="width: 100%; max-width: 800px; border-radius: 10px; margin-bottom: 20px;">
-</div>
-
 <h1 align="center">Hi there, I'm <a href="https://github.com/MciG-ggg">MciG-ggg</a> 👋</h1>
 
 <p align="center">
