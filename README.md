@@ -44,16 +44,6 @@
 
 ## 📊 GitHub Analytics
 
-### 📈 Activity Overview
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MciG-ggg&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00ff88&icon_color=00ff88&text_color=C9D1D9" alt="GitHub Stats">
-</div>
-
-### 🔥 Top Languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MciG-ggg&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00ff88&text_color=C9D1D9" alt="Top Languages">
-</div>
-
 ### 📅 Contribution Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MciG-ggg&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&line=00ff88&point=00ff88" alt="Activity Graph">
