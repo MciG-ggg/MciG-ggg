@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/MciG-ggg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00ff88&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Student+%40+CSU;Passionate+about+Go+and+Rust;Open+Source+Enthusiast;Always+learning+something+new" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00ff88&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Student+%40+CSU;Open+Source+Enthusiast;Always+learning+something+new" alt="Typing SVG">
   </a>
 </p>
 
