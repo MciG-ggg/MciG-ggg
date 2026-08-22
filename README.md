@@ -44,11 +44,12 @@
 
 ## 📊 GitHub Analytics
 
-### 📅 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MciG-ggg&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&line=00ff88&point=00ff88" alt="Activity Graph">
-</div>
-
+<a href="https://ghfind.com/u/mcig-ggg?ref=badge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/mcig-ggg?theme=dark&lang=zh" />
+    <img src="https://ghfind.com/api/card/mini/mcig-ggg?theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
+  </picture>
+</a>
 ---
 
 <div align="center">
